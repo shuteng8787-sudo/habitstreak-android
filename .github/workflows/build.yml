@@ -37,7 +37,7 @@ jobs:
       - name: Build Release AAB
         run: |
           chmod +x gradlew
-          ./gradlew assembleRelease --stacktrace
+          ./gradlew bundleRelease --stacktrace
         env:
           ANDROID_HOME: ${{ env.ANDROID_SDK_ROOT }}
 
