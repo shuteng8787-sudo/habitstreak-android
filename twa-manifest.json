@@ -1,0 +1,50 @@
+{
+  "packageId": "io.github.shuteng8787_sudo.twa",
+  "host": "shuteng8787-sudo.github.io",
+  "name": "HabitStreak - Don't Break the Chain",
+  "launcherName": "HabitStreak",
+  "display": "standalone",
+  "themeColor": "#059669",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": true,
+  "startUrl": "/habitstreak/",
+  "iconUrl": "https://shuteng8787-sudo.github.io/habitstreak/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "D:\\下属\\战略爱马仕\\projects\\genesis-forge\\android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://shuteng8787-sudo.github.io/habitstreak/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://shuteng8787-sudo.github.io/habitstreak/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [
+    {
+      "value": "1FB53D404CB24EC8EDF5333965E0D6C412D0E930CF39821CE930971AC2A891B1"
+    }
+  ],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "2"
+}
