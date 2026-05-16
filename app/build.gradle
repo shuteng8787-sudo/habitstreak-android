@@ -21,7 +21,7 @@ plugins {
 }
 
 def twaManifest = [
-    applicationId: 'io.github.shuteng8787_sudo.twa',
+    applicationId: 'com.genesisforge.habitstreak',
     hostName: 'shuteng8787-sudo.github.io', // The domain being opened in the TWA.
     launchUrl: '/habitstreak/', // The start path for the TWA. Must be relative to the domain.
     name: 'HabitStreak - Don\\\'t Break the Chain', // The application name.
@@ -52,9 +52,9 @@ def twaManifest = [
 
 android {
     compileSdkVersion 36
-    namespace "io.github.shuteng8787_sudo.twa"
+    namespace "com.genesisforge.habitstreak"
     defaultConfig {
-        applicationId "io.github.shuteng8787_sudo.twa"
+        applicationId "com.genesisforge.habitstreak"
         minSdkVersion 21
         targetSdkVersion 36
         versionCode 2
